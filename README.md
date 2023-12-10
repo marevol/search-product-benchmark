@@ -11,3 +11,4 @@ curl -L -o shopping_queries_dataset_examples.parquet https://github.com/amazon-s
 ## Notebooks
 
 - [analysis-elasticsearch.ipynb](analysis-elasticsearch.ipynb)
+- [analysis-opensearch.ipynb](analysis-opensearch.ipynb)
